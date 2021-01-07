@@ -1,0 +1,133 @@
+.free-trial {
+    color: #2DBD9D;
+    text-align: center;
+    font-size: 0.75em;
+    padding-bottom: 0.5em;
+    line-height: 0.81249999999em;
+    letter-spacing: 0.03125em;
+    box-sizing: inherit;
+    font-family: Arial;
+    padding-bottom: 0.5em;
+    font-weight: normal;
+}
+#contentSections h1 {
+    color: #2DBD9D;
+}
+.center {
+    text-align: center;
+}
+h1 {
+    color: #2DBD9D;
+    font-size: 0.75em;
+}
+.div-block-centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+h2 {
+    font-size: 1em;
+    text-align: center;
+    color: #fff;
+}
+body {
+    background-image: url(https://www.hulu.com/static/hitch/s3/attachments/ckbvd0gyz00xg19mlsu9nayv7-homepage-masthead-test-desktop-3200x1320-v4c-6-16-20.jpg)
+  }  
+h3 {
+    font-size: 0.7em;
+    text-align: center;
+    color: #fff;
+}
+.button {
+    appearance: button;
+    text-rendering: auto;
+    word-spacing: 0.25em;
+    text-indent: 0em;
+    text-shadow: none;
+    align-items: flex-start;
+    font-size: 1rem;
+    font-weight: 400;
+    border-radius: 0.25rem;
+        border-top-left-radius: 0.25rem;
+        border-top-right-radius: 0.25rem;
+        border-bottom-right-radius: 0.25rem;
+        border-bottom-left-radius: 0.25rem;
+    padding: 0em 2em;
+        padding-top: 0em;
+        padding-bottom: 0em;
+        padding-left: 2em;
+        padding-right: 2em;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0;
+    position: absolute;
+    top: 45%;
+    left: 42.5%;
+    padding-bottom: 0.5rem;
+    white-space: nowrap;
+    height: 3.50000000007em;
+    min-width: 8.50000000008em;
+    line-height: 0.875em;
+    letter-spacing: 0.0625em;
+    color: white;
+    font: 25em 0.83333125em Arial;
+        font-style: normal;
+        font-variant-ligatures: normal;
+        font-variant-caps: normal;
+        font-variant-numeric: normal;
+        font-variant-east-asian: normal;
+        font-stretch: normal;
+        font-family: Arial;
+    border: none;
+        border-top-style: none;
+        border-left-style: none;
+        border-right-style: none;
+        border-bottom-style: none;
+        border-top-color: white;
+        border-left-color: white;
+        border-right-color: white;
+        border-bottom-color: white;
+}
+.login {
+position: relative;
+bottom: 337.51px;
+left: 570px;
+letter-spacing: 0.063rem;
+padding: 1.438rem 0 1.063rem;
+    padding-top: 1.438rem;
+    padding-left: 0rem;
+    padding-bottom: 1.063rem;
+    padding-right: 0rem;
+margin: 0.25rem 0rem;
+    margin-top: 0.25rem;
+    margin-left: 0rem;
+    margin-bottom: 0.25;
+    margin-right: 0rem;
+border-radius: 0rem;
+    border-top-left-radius: 0rem;
+    border-top-right-radius: 0rem;
+    border-bottom-right-radius: 0rem;
+    border-bottom-left-radius: 0rem;
+text-transform: none;
+border: none;
+opacity: 1;
+font-family: 'Graphik',Helvetica,Arial,sans-serif;
+background: none;
+font-size: 0.875rem;
+color: white;
+font-weight: Semi Bold;
+}
+.legal {
+    align-self: center;
+    margin-top: 1rem;
+    color: white;
+    width: 33.5rem;
+    opacity: 0.6;
+    font-size: 0.625rem;
+    font-weight: normal;
+    line-height: 1rem;
+    position: relative;
+    top: 10.7em;
+    right: -68.5em;
+}
